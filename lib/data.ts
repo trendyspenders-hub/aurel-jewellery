@@ -15,3 +15,13 @@ export function matches(b:Business, query:string, country:string, category:strin
  return (!q||q.split(/\s+/).every(part=>hay.includes(part)))&&(!country||b.country===country)&&(!category||[b.specialty,b.businessType].join(' ').toLowerCase().includes(category.toLowerCase()));
 }
 export const categories=['Diamond','Gold','Silver','Gemstone','Manufacturing','Wholesale','Custom','Repair','Bridal','Pearl'];
+
+export type AccessType = 'Retail' | 'Appointment-only' | 'Trade-only' | 'Unconfirmed';
+/** Conservative access classification: only explicit research labels qualify. */
+export function accessType(b:Business):AccessType {
+ const value=(b.businessType||'').toLowerCase();
+ if(/no public retail|b2b|trade.only|wholesale.only/.test(value))return 'Trade-only';
+ if(/by appointment|appointment.only/.test(value))return 'Appointment-only';
+ if(/retail shop|public retail|walk.in retail/.test(value))return 'Retail';
+ return 'Unconfirmed';
+}
