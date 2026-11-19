@@ -1,0 +1,50 @@
+{
+  "sabrina-a-los-angeles": {
+    "website": "https://sabrinaa.com/",
+    "phone": "+1 213-435-0215",
+    "email": "jewelry.sabrinaa@gmail.com",
+    "address": "550 S Hill St #750, Los Angeles, CA 90013",
+    "verification": "Official website cross-checked; address differs from original source",
+    "verifiedFields": [
+      "website",
+      "phone",
+      "email",
+      "address"
+    ],
+    "verificationSources": [
+      "https://sabrinaa.com/pages/contact",
+      "https://www.gojewelrydistrict.com/stores"
+    ],
+    "verifiedOn": "2026-11-19",
+    "imageRights": "No product imagery licensed"
+  },
+  "mirage-wholesale-los-angeles": {
+    "website": "https://miragewholesalejewelry.com/",
+    "address": "650 S Hill St Suite 327, Los Angeles, CA 90014",
+    "verification": "Official website cross-checked; address differs from original source",
+    "verifiedFields": [
+      "website",
+      "phone",
+      "address"
+    ],
+    "verificationSources": [
+      "https://miragewholesalejewelry.com/",
+      "https://www.gojewelrydistrict.com/stores"
+    ],
+    "verifiedOn": "2026-11-19",
+    "imageRights": "No product imagery licensed"
+  },
+  "miri-manufacturing-los-angeles": {
+    "verification": "Secondary directory corroboration only; no official website established",
+    "verifiedFields": [
+      "phone",
+      "address"
+    ],
+    "verificationSources": [
+      "https://www.gojewelrydistrict.com/manufacturer",
+      "https://www.gojewelrydistrict.com/stores"
+    ],
+    "verifiedOn": "2026-11-19",
+    "imageRights": "No product imagery licensed"
+  }
+}
