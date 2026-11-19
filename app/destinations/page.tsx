@@ -28,7 +28,7 @@ function canonical(city:string){
 }
 export default function Page(){
  const groups=Object.values(businesses.reduce<Record<string,{name:string;count:number;search:string}>>((a,b)=>{
-  const name=canonical(b.city);const k=name.toLowerCase();if(!a[k])a[k]={name,count:0,search:b.city};a[k].count++;return a;
+  const name=canonical(b.city);const k=name.toLowerCase();if(!a[k])a[k]={name,count:0,search:name.split(',')[0].split(' / ')[0]};a[k].count++;return a;
  },{})).sort((a,b)=>b.count-a.count);
  return <><div className="page-hero"><span className="eyebrow">THE AUREL ATLAS / DESTINATIONS</span><h1>Places of <em>possibility.</em></h1><p>Explore jewellery districts, workshops and specialists across the cities represented in our research.</p></div>
  <section className="section-wrap destination-list"><div className="results-heading"><span>{groups.length} destinations in the research index</span><span>EXPLORE BY CITY</span></div>{groups.map(g=><Link href={'/directory?q='+encodeURIComponent(g.search)} key={g.name}><h2>{g.name}</h2><span>{g.count} {g.count===1?'record':'records'}</span><ArrowUpRight/></Link>)}</section>
