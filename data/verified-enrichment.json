@@ -123,5 +123,125 @@
     ],
     "verifiedOn": "2026-11-19",
     "imageRights": "No product photography or official logos licensed"
+  },
+  "archer-international-atlanta": {
+    "verification": "AmericasMart official year-round showroom listing corroborates Archer International Imports in Building 3, suite 6-N101. This verifies a directory listing, not independent business ownership, telephone or website.",
+    "verifiedFields": [
+      "address"
+    ],
+    "verificationSources": [
+      "https://www.americasmart.com/Year-Round/Open-Showrooms"
+    ],
+    "verifiedOn": "2026-11-19",
+    "imageRights": "No photography or logos licensed"
+  },
+  "artland-jewelry-atlanta": {
+    "verification": "AmericasMart official year-round showroom listing corroborates Artland Jewelry in Building 3, suite 6-W121B. This verifies a directory listing, not independent business ownership, telephone or website.",
+    "verifiedFields": [
+      "address"
+    ],
+    "verificationSources": [
+      "https://www.americasmart.com/Year-Round/Open-Showrooms"
+    ],
+    "verifiedOn": "2026-11-19",
+    "imageRights": "No photography or logos licensed"
+  },
+  "atl-diamond-llc-atlanta": {
+    "verification": "AmericasMart official year-round showroom listing corroborates ATL Diamond LLC in Building 3, suite 6-E338. This verifies a directory listing, not independent business ownership, telephone or website.",
+    "verifiedFields": [
+      "address"
+    ],
+    "verificationSources": [
+      "https://www.americasmart.com/Year-Round/Open-Showrooms"
+    ],
+    "verifiedOn": "2026-11-19",
+    "imageRights": "No photography or logos licensed"
+  },
+  "atlanta-jewelry-watches-wholesale-atlanta": {
+    "verification": "AmericasMart official year-round showroom listing corroborates Atlanta Jewelry & Watches Wholesale in Building 3, suite 6-W379A. This verifies a directory listing, not independent business ownership, telephone or website.",
+    "verifiedFields": [
+      "address"
+    ],
+    "verificationSources": [
+      "https://www.americasmart.com/Year-Round/Open-Showrooms"
+    ],
+    "verifiedOn": "2026-11-19",
+    "imageRights": "No photography or logos licensed"
+  },
+  "axr-jewels-llc-atlanta": {
+    "verification": "AmericasMart official year-round showroom listing corroborates AXR Jewels LLC in Building 3, suite 6-S356. This verifies a directory listing, not independent business ownership, telephone or website.",
+    "verifiedFields": [
+      "address"
+    ],
+    "verificationSources": [
+      "https://www.americasmart.com/Year-Round/Open-Showrooms"
+    ],
+    "verifiedOn": "2026-11-19",
+    "imageRights": "No photography or logos licensed"
+  },
+  "bansi-inc-atlanta": {
+    "verification": "AmericasMart official year-round showroom listing corroborates Bansi Inc in Building 3, suite 6-W124B. This verifies a directory listing, not independent business ownership, telephone or website.",
+    "verifiedFields": [
+      "address"
+    ],
+    "verificationSources": [
+      "https://www.americasmart.com/Year-Round/Open-Showrooms"
+    ],
+    "verifiedOn": "2026-11-19",
+    "imageRights": "No photography or logos licensed"
+  },
+  "benny-s-jewelry-atlanta": {
+    "verification": "AmericasMart official year-round showroom listing corroborates Benny's Jewelry in Building 3, suite 6-N104A. This verifies a directory listing, not independent business ownership, telephone or website.",
+    "verifiedFields": [
+      "address"
+    ],
+    "verificationSources": [
+      "https://www.americasmart.com/Year-Round/Open-Showrooms"
+    ],
+    "verifiedOn": "2026-11-19",
+    "imageRights": "No photography or logos licensed"
+  },
+  "best-jewelry-atlanta": {
+    "verification": "AmericasMart official year-round showroom listing corroborates Best Jewelry in Building 3, suite 6-W119. This verifies a directory listing, not independent business ownership, telephone or website.",
+    "verifiedFields": [
+      "address"
+    ],
+    "verificationSources": [
+      "https://www.americasmart.com/Year-Round/Open-Showrooms"
+    ],
+    "verifiedOn": "2026-11-19",
+    "imageRights": "No photography or logos licensed"
+  },
+  "crescent-jewelers-atlanta": {
+    "verification": "AmericasMart official year-round showroom listing corroborates Crescent Jewelers in Building 3, suite 6-E111B. This verifies a directory listing, not independent business ownership, telephone or website.",
+    "verifiedFields": [
+      "address"
+    ],
+    "verificationSources": [
+      "https://www.americasmart.com/Year-Round/Open-Showrooms"
+    ],
+    "verifiedOn": "2026-11-19",
+    "imageRights": "No photography or logos licensed"
+  },
+  "da-vinci-fine-jewelry-atlanta": {
+    "verification": "AmericasMart official year-round showroom listing corroborates Da Vinci Fine Jewelry in Building 3, suite 6-N104B. This verifies a directory listing, not independent business ownership, telephone or website.",
+    "verifiedFields": [
+      "address"
+    ],
+    "verificationSources": [
+      "https://www.americasmart.com/Year-Round/Open-Showrooms"
+    ],
+    "verifiedOn": "2026-11-19",
+    "imageRights": "No photography or logos licensed"
+  },
+  "alen-jewelry-inc-atlanta": {
+    "verification": "Conflicting AmericasMart official listings: year-round page shows B3 6-S357B, while Spring 2026 and Fall 2026 event lists show B3 6-S347A. Do not overwrite the original address until confirmed.",
+    "verifiedFields": [],
+    "verificationSources": [
+      "https://www.americasmart.com/Year-Round/Open-Showrooms",
+      "https://www.americasmart.com/Markets/Fall-Cash-and-Carry/Open-Showrooms/"
+    ],
+    "verifiedOn": "2026-11-19",
+    "imageRights": "No photography or logos licensed"
   }
 }
