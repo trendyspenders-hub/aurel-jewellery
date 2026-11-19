@@ -1,0 +1,4415 @@
+{
+  "auditDate": "2026-11-19",
+  "scope": "Full dataset structural audit; not independent verification of all businesses",
+  "total": 674,
+  "fieldCompleteness": {
+    "website": 54,
+    "phone": 444,
+    "email": 52,
+    "instagram": 0,
+    "address": 584,
+    "sourceUrl": 674,
+    "city": 674,
+    "country": 674,
+    "specialty": 674
+  },
+  "missingAllDirectContacts": 201,
+  "missingAllDirectContactSlugs": [
+    "marpeco-trade-llc-miami",
+    "matos-jewelry-corp-miami",
+    "a-m-custom-jewelry-atlanta",
+    "af-designs-atlanta",
+    "alen-jewelry-inc-atlanta",
+    "american-ring-company-atlanta",
+    "anju-jewelry-atlanta",
+    "archer-international-atlanta",
+    "artland-jewelry-atlanta",
+    "atl-diamond-llc-atlanta",
+    "atlanta-jewelry-watches-wholesale-atlanta",
+    "axr-jewels-llc-atlanta",
+    "bansi-inc-atlanta",
+    "benny-s-jewelry-atlanta",
+    "best-jewelry-atlanta",
+    "crescent-jewelers-atlanta",
+    "da-vinci-fine-jewelry-atlanta",
+    "danielle-diamonds-co-atlanta",
+    "diamond-box-atlanta",
+    "diamonds-diamonds-atlanta",
+    "divine-jewelry-atlanta",
+    "eternal-jewels-atlanta",
+    "fortune-international-jewelry-atlanta",
+    "gold-n-diamonds-gnd-atlanta-atlanta",
+    "gold-tech-atlanta",
+    "golden-dragon-imports-atlanta",
+    "golden-stella-atlanta",
+    "harlin-diamonds-atlanta",
+    "horizon-jewelry-atlanta",
+    "italian-gold-and-diamond-atlanta",
+    "jain-co-atlanta",
+    "jewelry-for-less-atlanta",
+    "jewelry-palace-atlanta",
+    "kelly-s-wholesale-jewelry-atlanta",
+    "king-diamonds-atlanta",
+    "posh-diamonds-gallery-atlanta",
+    "prime-wholesale-atlanta",
+    "radium-jewelry-atlanta",
+    "s-b-jewelry-wholesale-atlanta",
+    "sarah-a-jewelry-atlanta",
+    "sassy-south-jewelry-atlanta",
+    "s-s-collection-atlanta",
+    "saga-selection-atlanta",
+    "s-j-jewels-atlanta",
+    "southeastern-marketing-se-marketplace-atlanta",
+    "sterling-arts-atlanta",
+    "royal-jewelry-wholesale-atlanta",
+    "lsm-distributors-houston",
+    "shahnawaz-a-tharoo-houston",
+    "ark-businesses-llc-houston",
+    "g-d-inc-houston",
+    "low-cost-leader-houston",
+    "gold-n-stones-inc-houston",
+    "trillion-inc-houston",
+    "sjd-gold-diamonds-houston",
+    "famous-gold-inc-houston",
+    "herman-jewelers-houston",
+    "premium-diamond-co-houston",
+    "dayyani-creations-houston",
+    "italian-gold-distributor-houston",
+    "a-s-fine-jewelry-setting-inc-new-york-city",
+    "alebel-jewelry-inc-new-york-city",
+    "avianne-co-new-york-city",
+    "berba-diamond-setters-new-york-city",
+    "castech-casting-production-new-york-city",
+    "deena-jewelers-new-york-city",
+    "design-by-majewel-inc-new-york-city",
+    "donald-huber-jewelry-new-york-city",
+    "jake-star-designs-new-york-city",
+    "jewelry-by-alexander-new-york-city",
+    "krainz-creations-new-york-city",
+    "leon-mege-new-york-city",
+    "bellaire-wholesale-mississauga-on-canada",
+    "blue-point-findings-schomberg-on-canada",
+    "european-design-jewellery-toronto-on-canada",
+    "fournitures-de-bijoux-montreal-qc-canada",
+    "gold-silver-house-ltd-toronto-on-canada",
+    "j-w-histed-diamonds-ltd-vancouver-bc-canada",
+    "mabensa-montreal-qc-canada",
+    "silviafindings-canada-richmond-bc-canada",
+    "stones-and-findings-toronto-on-canada",
+    "watier-findings-online-canada",
+    "samuel-jones-canada",
+    "anni-jewelry-toronto-on-canada",
+    "anzie-accessories-design-mont-royal-qc-canada",
+    "aram-jewellery-inc-toronto-on-canada",
+    "arctic-canadian-diamond-company-ltd-calgary-ab-canada",
+    "arcticmark-toronto-on-canada",
+    "ardron-mackie-mississauga-on-canada",
+    "ank-enterprise-calgary-ab-canada",
+    "anne-marie-chagnon-montreal-qc-canada",
+    "anglo-continental-jewellery-canada",
+    "raffi-s-san-francisco-ca-usa",
+    "bella-fine-jewelry-inc-san-francisco-ca-usa",
+    "c-y-lin-co-san-francisco-ca-usa",
+    "chabo-s-jewelry-inc-san-francisco-ca-usa",
+    "chau-s-pearl-san-francisco-ca-usa",
+    "derco-fine-jewelers-san-francisco-ca-usa",
+    "diamond-e-company-san-francisco-ca-usa",
+    "dioro-jewelers-san-francisco-ca-usa",
+    "emanuel-diamond-import-san-francisco-ca-usa",
+    "fine-facets-san-francisco-ca-usa",
+    "garo-s-jewelry-san-francisco-ca-usa",
+    "giraux-fine-jewelry-san-francisco-ca-usa",
+    "golden-crown-jewelry-san-francisco-ca-usa",
+    "h-s-fine-jewelry-san-francisco-ca-usa",
+    "jewelry-art-center-san-francisco-ca-usa",
+    "jima-international-san-francisco-ca-usa",
+    "josephine-selection-inc-san-francisco-ca-usa",
+    "just-bands-just-diamonds-san-francisco-ca-usa",
+    "kan-s-jewelry-art-san-francisco-ca-usa",
+    "lumiere-fine-jewelry-san-francisco-ca-usa",
+    "majul-co-san-francisco-ca-usa",
+    "mcm-wholesale-san-francisco-ca-usa",
+    "mermaid-trading-inc-san-francisco-ca-usa",
+    "microsettings-by-roupen-san-francisco-ca-usa",
+    "om-diamonds-san-francisco-ca-usa",
+    "padis-jewelry-san-francisco-ca-usa",
+    "prestige-jewelry-inc-san-francisco-ca-usa",
+    "r-c-international-san-francisco-ca-usa",
+    "s-g-jewelry-san-francisco-ca-usa",
+    "sam-davis-designs-san-francisco-ca-usa",
+    "sand-hill-watch-co-san-francisco-ca-usa",
+    "sfe-jewelers-san-francisco-ca-usa",
+    "special-concept-inc-san-francisco-ca-usa",
+    "t-a-t-jewelers-san-francisco-ca-usa",
+    "tal-diamonds-san-francisco-ca-usa",
+    "the-jubilee-san-francisco-ca-usa",
+    "treasure-valley-san-francisco-ca-usa",
+    "yadav-diamonds-jewelry-san-francisco-ca-usa",
+    "yadegar-diamonds-fine-jewelry-san-francisco-ca-usa",
+    "yen-s-jewelry-san-francisco-ca-usa",
+    "oriza-jewelers-inc-seattle-puget-sound-wa-usa",
+    "cascade-sterling-seattle-puget-sound-wa-usa",
+    "dashasa-seattle-puget-sound-wa-usa",
+    "b-v-gems-dallas-tx-usa",
+    "bali-diamonds-dallas-tx-usa",
+    "bella-diamanti-dallas-tx-usa",
+    "bitton-diamonds-dallas-tx-usa",
+    "bova-diamonds-dallas-tx-usa",
+    "capo-fine-diamonds-dallas-tx-usa",
+    "cook-diamonds-dallas-tx-usa",
+    "corbett-diamonds-dallas-tx-usa",
+    "designs-by-flora-dallas-tx-usa",
+    "dutch-diamond-dallas-tx-usa",
+    "exclusive-design-dallas-tx-usa",
+    "expressions-diamond-dallas-tx-usa",
+    "gevandov-design-studio-dallas-tx-usa",
+    "gold-silver-jewelry-exchange-dallas-tx-usa",
+    "house-of-india-dallas-tx-usa",
+    "intergem-dallas-tx-usa",
+    "jd-english-dallas-tx-usa",
+    "jewels-of-mewar-dallas-tx-usa",
+    "jewelry-by-schandra-dallas-tx-usa",
+    "international-jewelers-dallas-tx-usa",
+    "lyles-degrazier-dallas-tx-usa",
+    "nisha-designs-dallas-tx-usa",
+    "oriental-arts-co-dallas-tx-usa",
+    "premier-jewelry-co-dallas-tx-usa",
+    "rapana-jewelers-dallas-tx-usa",
+    "rw-fine-dallas-tx-usa",
+    "sdc-diamonds-dallas-tx-usa",
+    "sayed-creations-dallas-tx-usa",
+    "silver-emporium-dallas-tx-usa",
+    "sun-pearl-n-gem-dallas-tx-usa",
+    "t-j-custom-designs-dallas-tx-usa",
+    "turquoise-heaven-dallas-tx-usa",
+    "top-jewellers-co-ltd-toronto-on-canada",
+    "mayur-dave-gems-inc-toronto-on-canada",
+    "myerson-s-limited-toronto-on-canada",
+    "q-diamond-wholesale-imports-toronto-on-canada",
+    "house-of-jewellery-toronto-on-canada",
+    "bamiyan-silver-toronto-on-canada",
+    "kent-jewellery-wholesale-ltd-toronto-on-canada",
+    "premier-diamonds-toronto-on-canada",
+    "central-diamonds-inc-toronto-on-canada",
+    "carry-jewellery-manufacture-toronto-on-canada",
+    "navrattan-enterprises-jaipur",
+    "sarraf-jewel-jaipur",
+    "gem-worth-jaipur",
+    "jasani-mumbai",
+    "sunjewels-pvt-ltd-mumbai",
+    "gunjan-jewels-pvt-ltd-thane-mumbai",
+    "zayna-exports-amritsar",
+    "shri-arihant-mangal-expo-impo-jaipur",
+    "ratnakala-exports-pvt-ltd-surat",
+    "brij-nivesh-jaipur",
+    "valentine-silver-international-jaipur",
+    "creation-gems-and-jewellery-pvt-ltd-mumbai",
+    "jj-jdwarka-jewel-jaipur",
+    "dws-jewellery-pvt-ltd-jaipur",
+    "dwarka-gems-limited-jaipur",
+    "pukhraj-gems-exports-pvt-ltd-jaipur",
+    "prayosha-jewels-pvt-ltd-surat",
+    "maroth-jewels-pvt-ltd-jaipur",
+    "krishnam-exports-jaipur",
+    "gem-factory-india-jaipur",
+    "gie-jewels-jaipur",
+    "stellar-jewelry-mumbai",
+    "cdl-fineshine-surat",
+    "nigam-jewels-pvt-ltd-jaipur"
+  ],
+  "needsFieldResearch": [
+    {
+      "slug": "sabrina-a-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "miri-manufacturing-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "mirage-wholesale-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "marina-diamond-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "l-a-j-inc-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "juanita-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "franguli-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "elim-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "easigo-gem-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "comex-jewelry-inc-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "charming-silver-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "c-h-gems-inc-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "body-jewelz-inc-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "bidz-com-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "bandak-jwl-mfg-inc-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "arik-mounting-inc-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "abraham-s-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "a-v-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "john-marvin-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "international-pearls-fine-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "greg-anthony-inc-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "gem-city-int-l-inc-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "etm-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "dream-fine-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "d-j-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "belle-epoque-jewelers-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "united-wholesale-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "vita-di-lusso-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "starlanka-fine-gems-inc-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "west-coast-diamonds-and-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "gold-gem-jewelry-company-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "concorde-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "diamond-by-david-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "song-s-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "maya-s-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "kourosh-jewelry-inc-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "roma-design-jewelers-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "george-s-wholesale-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "isram-wholesale-diamond-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "monte-christo-trade-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "blue-star-jewelry-repair-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "metropolitan-wholesale-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "1-800-loose-diamonds-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "new-gold-manufacturing-wholesale-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "blue-moon-forever-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "the-lim-s-jewelry-co-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "golden-state-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "a-m-h-wholesale-mounting-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "wilma-jewelry-inc-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "apm-body-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "david-klass-wholesale-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "gem-dynasty-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "silver-international-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "m-d-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "sunshine-wholesale-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "aziz-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "jewelry-by-nicole-inc-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "land-of-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "pyramid-diamond-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "levi-jewelry-watches-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "jacob-jewelry-inc-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "msk-design-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "modern-jewelry-watches-inc-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "diamond-mine-jewelers-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "s-i-e-gold-diamonds-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "american-ideal-diamond-co-inc-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "diamond-collection-inc-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "josephine-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "sioro-wholesale-silver-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "jewelry-depot-inc-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "silver-palace-inc-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "gold-empire-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "capri-jewelry-inc-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "bridal-rings-company-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "ramerica-fine-jewelry-and-watches-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "happy-time-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "sahabi-inc-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "prime-mountings-inc-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "mci-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "facets-gems-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "crown-gold-inc-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "gold-link-co-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "christian-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "star-designer-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "ct-fine-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "gold-craft-inc-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "jack-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "pishone-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "martin-jewelry-trading-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "direct-source-g-d-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "e-g-a-diamond-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "diamondized-collections-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "avore-jewelers-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "blue-n-white-diamonds-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "paradiso-inc-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "b-s-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "general-diamonds-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "mon-cheri-diamonds-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "mbs-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "rondels-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "petri-gems-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "arat-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "frank-vernon-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "model-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "elbi-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "marquis-gold-co-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "dorian-rose-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "adiamor-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "land-gems-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "jewel-house-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "norman-goodman-and-company-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "king-of-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "jewelers-line-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "citrine-fashion-jewelry-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "noyabella-diamonds-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "wonder-jewelers-los-angeles",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "14k-18k-gold-earrings-dba-acero-316-inc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "18k-miami-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "23-trading-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "388-fl-inc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "3e-jewelry-design-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "abigail-wong-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "adrian-cardoso-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "adrian-garcia-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "adn-rendon-jeweler-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "aez-jewels-inc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "ajame-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "alessi-domenico-usa-corp-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "akar-precious-metals-inc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "alan-richardson-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "albert-faz-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "albert-s-fine-jewelers-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "almagor-diamonds-inc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "alp-gems-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "amber-r-jewelers-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "amoria-llc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "angelito-jewelry-repair-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "arias-jewelry-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "armando-jewelry-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "aruba-gold-inc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "associated-jewelry-inc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "avi-s-creations-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "aurum-jewel-group-llc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "baguette-mondial-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "balco-int-l-s-florida-jewelry-buying-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "barclay-s-jewelers-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "bby-diamonds-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "belgium-diamonds-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "bha-jewelry-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "bg-jewelry-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "bos-jewelers-inc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "brilliance-jewels-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "brilliants-international-goldmine-enterprises-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "buchwald-jewelers-inc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "bull-mining-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "buvin-jewelry-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "capdevilla-s-jewelry-designs-inc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "carlito-s-jewelry-international-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "cavalieri-jewelry-watch-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "cavalli-hub-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "ceschic-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "color-jewels-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "coral-stones-unlimited-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "d-k-n-gems-jewelry-inc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "dasani-jewels-inc-pandora-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "debranf-jewelry-llc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "diamond-connection-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "diamond-club-inc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "diamond-headquarters-llc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "diamond-images-usa-inc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "diego-bolon-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "double-c-jewelry-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "manhattan-watch-rolex-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "maniobra-by-fabian-mojica-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "marcos-oscar-diaz-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "maria-fine-jewelry-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "mario-s-castings-inc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "marisela-gonzalez-jewelry-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "marpeco-trade-llc-miami",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "matos-jewelry-corp-miami",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "matheus-designs-inc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "mateo-made-it-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "melidam-enterprises-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "metamorfosi-enterprise-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "miami-jewelers-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "miami-watch-brokers-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "miami-watch-jewelry-exchange-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "miami-watchmaker-inc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "miami-wholesalers-llc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "miro-s-watch-repair-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "mj-acquisitions-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "moses-diamond-corp-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "mts-jewelry-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "mueller-yammine-inc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "mvr305-llc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "r-a-international-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "rayliz-s-jewelry-corp-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "real-trading-corp-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "rene-escobar-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "reyes-jewelers-corp-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "richard-s-gems-and-jewelry-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "robles-diamond-jewelry-repair-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "rocks-on-clocks-llc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "roger-s-findings-casting-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "royal-gems-inc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "r-q-jewelry-repair-inc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "ruben-s-jewelry-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "rubin-s-gem-jewelry-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "s-a-watch-repair-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "sarmiento-jewelry-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "savi-creations-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "set-to-shine-fine-jewelry-inc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "sg-frabass-jewelry-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "sharp-silver-corp-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "simon-jewelry-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "siriporn-inc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "sp-diamonds-intl-trade-corp-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "steve-neckman-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "sue-s-old-loves-inc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "swiss-gemstone-setters-llc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "swiss-time-buyers-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "the-timeless-collector-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "time-watch-repair-store-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "tm-time-inc-miami",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "a-m-custom-jewelry-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "af-designs-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "alen-jewelry-inc-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "american-ring-company-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "anju-jewelry-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "archer-international-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "artland-jewelry-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "atl-diamond-llc-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "atlanta-jewelry-watches-wholesale-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "axr-jewels-llc-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "bansi-inc-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "benny-s-jewelry-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "best-jewelry-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "crescent-jewelers-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "da-vinci-fine-jewelry-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "danielle-diamonds-co-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "diamond-box-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "diamonds-diamonds-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "divine-jewelry-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "eternal-jewels-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "fortune-international-jewelry-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "gold-n-diamonds-gnd-atlanta-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "gold-tech-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "golden-dragon-imports-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "golden-stella-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "harlin-diamonds-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "horizon-jewelry-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "italian-gold-and-diamond-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "jain-co-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "jewelry-for-less-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "jewelry-palace-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "kelly-s-wholesale-jewelry-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "king-diamonds-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "posh-diamonds-gallery-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "prime-wholesale-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "radium-jewelry-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "s-b-jewelry-wholesale-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "sarah-a-jewelry-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "sassy-south-jewelry-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "s-s-collection-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "saga-selection-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "s-j-jewels-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "southeastern-marketing-se-marketplace-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "sterling-arts-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "royal-jewelry-wholesale-atlanta",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "lsm-distributors-houston",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "shahnawaz-a-tharoo-houston",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "ark-businesses-llc-houston",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "g-d-inc-houston",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "low-cost-leader-houston",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "gold-n-stones-inc-houston",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "trillion-inc-houston",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "sjd-gold-diamonds-houston",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "famous-gold-inc-houston",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "herman-jewelers-houston",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "premium-diamond-co-houston",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "dayyani-creations-houston",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "italian-gold-distributor-houston",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "mon-ami-jewelry-chicago",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "national-diamond-syndicate-chicago",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "rose-estate-jewelers-chicago",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "chadha-brothers-inc-chicago",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "gale-diamonds-chicago-chicago",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "royal-pearl-company-chicago",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "royal-star-inc-chicago",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "rahmanim-s-imports-chicago",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "pia-jewelers-chicago",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "facet-colors-chicago",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "navikan-inc-chicago",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "diamond-soiree-chicago",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "a-s-fine-jewelry-setting-inc-new-york-city",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "alebel-jewelry-inc-new-york-city",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "avianne-co-new-york-city",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "berba-diamond-setters-new-york-city",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "castech-casting-production-new-york-city",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "deena-jewelers-new-york-city",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "design-by-majewel-inc-new-york-city",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "donald-huber-jewelry-new-york-city",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "jake-star-designs-new-york-city",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "jewelry-by-alexander-new-york-city",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "krainz-creations-new-york-city",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "leon-mege-new-york-city",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "nissan-diamonds-new-york-city",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "delicate-gem-new-york-city",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "matinee-jewelry-new-york-city",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "guru-diam-new-york-city",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "iti-nyc-new-york-city",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "rel-international-new-york-city",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "dial-for-diamond-new-york-city",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "bmd-trading-inc-new-york-city",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "bellaire-wholesale-mississauga-on-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "blue-point-findings-schomberg-on-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "european-design-jewellery-toronto-on-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "fournitures-de-bijoux-montreal-qc-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "gold-silver-house-ltd-toronto-on-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "j-w-histed-diamonds-ltd-vancouver-bc-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "mabensa-montreal-qc-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "silviafindings-canada-richmond-bc-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "stones-and-findings-toronto-on-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "watier-findings-online-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "samuel-jones-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "anni-jewelry-toronto-on-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "anzie-accessories-design-mont-royal-qc-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "aram-jewellery-inc-toronto-on-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "arctic-canadian-diamond-company-ltd-calgary-ab-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "arcticmark-toronto-on-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "ardron-mackie-mississauga-on-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "ank-enterprise-calgary-ab-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "anne-marie-chagnon-montreal-qc-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "anglo-continental-jewellery-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "french-jewelry-inc-san-francisco-ca-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "christine-jewelry-san-francisco-ca-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "raffi-s-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "pearl-lounge-jewelry-design-san-francisco-ca-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "san-francisco-diamond-exchange-san-francisco-ca-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "jewelry-exchange-co-san-francisco-ca-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "watson-stephens-estate-jewelry-buyers-appraisers-san-francisco-ca-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "r-p-diamond-gold-imports-san-francisco-ca-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "far-east-pearls-san-francisco-ca-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "evs-enterprises-san-francisco-ca-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "j-stella-inc-san-francisco-ca-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "jahan-diamond-imports-san-francisco-ca-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "k-go-co-san-francisco-ca-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "yael-diamonds-inc-san-francisco-ca-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "brian-chen-jewelry-mfg-san-francisco-ca-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "bella-fine-jewelry-inc-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "c-y-lin-co-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "chabo-s-jewelry-inc-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "chau-s-pearl-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "derco-fine-jewelers-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "diamond-e-company-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "dioro-jewelers-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "emanuel-diamond-import-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "fine-facets-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "garo-s-jewelry-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "giraux-fine-jewelry-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "golden-crown-jewelry-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "h-s-fine-jewelry-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "jewelry-art-center-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "jima-international-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "josephine-selection-inc-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "just-bands-just-diamonds-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "kan-s-jewelry-art-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "lumiere-fine-jewelry-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "majul-co-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "mcm-wholesale-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "mermaid-trading-inc-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "microsettings-by-roupen-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "om-diamonds-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "padis-jewelry-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "prestige-jewelry-inc-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "r-c-international-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "s-g-jewelry-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "sam-davis-designs-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "sand-hill-watch-co-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "sfe-jewelers-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "special-concept-inc-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "t-a-t-jewelers-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "tal-diamonds-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "the-jubilee-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "treasure-valley-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "yadav-diamonds-jewelry-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "yadegar-diamonds-fine-jewelry-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "yen-s-jewelry-san-francisco-ca-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "angelwear-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "gem-center-northwest-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "e-e-robbins-engagement-wedding-rings-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "gss-jewelers-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "grand-products-co-ltd-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "kc-gems-international-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "chris-francisco-jeweler-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "true-colors-jewelry-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "le-monde-fine-jewelry-inc-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "eastern-merchandise-company-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "body-circle-designs-inc-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "marco-company-jewelry-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "kogita-jewelry-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "oriza-jewelers-inc-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "david-elle-jewelers-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "pacific-gem-inc-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "bae-import-co-inc-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "cline-manufacturing-jewelers-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "cascade-sterling-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "charisma-jewel-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "chung-lian-flock-corp-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "dashasa-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "donna-and-dedrea-s-creations-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "eek-designs-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "emerald-medusa-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "enamelwork-supply-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "everling-jewelry-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "b-v-gems-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "bali-diamonds-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "bella-diamanti-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "bitton-diamonds-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "bova-diamonds-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "capo-fine-diamonds-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "cook-diamonds-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "corbett-diamonds-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "designs-by-flora-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "dutch-diamond-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "exclusive-design-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "expressions-diamond-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "gevandov-design-studio-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "gold-silver-jewelry-exchange-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "house-of-india-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "intergem-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "jd-english-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "jewels-of-mewar-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "jewelry-by-schandra-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "international-jewelers-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "lyles-degrazier-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "nisha-designs-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "oriental-arts-co-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "premier-jewelry-co-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "rapana-jewelers-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "rw-fine-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "sdc-diamonds-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "sayed-creations-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "silver-emporium-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "sun-pearl-n-gem-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "t-j-custom-designs-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "turquoise-heaven-dallas-tx-usa",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "skyjems-1630931-ontario-limited-toronto-on-canada",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "sky-lab-diamond-inc-toronto-on-canada",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "top-jewellers-co-ltd-toronto-on-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "mayur-dave-gems-inc-toronto-on-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "myerson-s-limited-toronto-on-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "q-diamond-wholesale-imports-toronto-on-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "house-of-jewellery-toronto-on-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "bamiyan-silver-toronto-on-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "kent-jewellery-wholesale-ltd-toronto-on-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "premier-diamonds-toronto-on-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "central-diamonds-inc-toronto-on-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "carry-jewellery-manufacture-toronto-on-canada",
+      "missing": [
+        "website",
+        "phone"
+      ]
+    },
+    {
+      "slug": "serafino-s-e-n-c-montreal-qc-canada",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "a-one-imports-san-francisco-ca-usa",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "a-e-watches-san-francisco-ca-usa",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "a-j-jewelry-san-francisco-ca-usa",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "a-b-jems-company-san-francisco-ca-usa",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "ada-diamonds-san-francisco-ca-usa",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "adamant-fine-jewelry-san-francisco-ca-usa",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "alan-man-s-design-jewelry-san-francisco-ca-usa",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "bella-fine-jewelry-inc-san-francisco-ca-usa-2",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "chabo-s-jewelry-inc-san-francisco-ca-usa-2",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "edward-s-jewelry-imports-san-francisco-ca-usa",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "grace-design-san-francisco-ca-usa",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "jeweler-s-choice-san-francisco-ca-usa",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "jollyana-design-san-francisco-ca-usa",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "josephine-selection-inc-san-francisco-ca-usa-2",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "kd-jewelry-san-francisco-ca-usa",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "l-f-george-jewelry-san-francisco-ca-usa",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "master-design-jewelry-san-francisco-ca-usa",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "maurice-european-designs-san-francisco-ca-usa",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "may-s-jewelers-san-francisco-ca-usa",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "mermaid-trading-inc-san-francisco-ca-usa-2",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "microsettings-by-roupen-san-francisco-ca-usa-2",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "mist-fine-jewelry-san-francisco-ca-usa",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "parcel-pro-san-francisco-ca-usa",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "prestige-jewelry-inc-san-francisco-ca-usa-2",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "rumors-engraving-san-francisco-ca-usa",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "royal-design-san-francisco-ca-usa",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "sand-hill-watch-co-san-francisco-ca-usa-2",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "special-concept-inc-san-francisco-ca-usa-2",
+      "missing": [
+        "phone"
+      ]
+    },
+    {
+      "slug": "outcast-company-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "robert-kahn-company-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "j-l-houston-inc-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "kimberly-baker-jewelry-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "fu-gemstone-imports-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "yk-trading-inc-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "prestige-fine-jewelry-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "fujino-david-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "eastern-merchandise-co-inc-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "gemstar-international-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "arun-gems-international-llc-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "exact-gems-international-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "fiori-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "boma-jewelry-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "turgeon-raine-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "sholdt-jewelers-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "first-facet-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "j-beads-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "bella-stella-co-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "agate-designs-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "bead-world-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "world-beads-seattle-puget-sound-wa-usa",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "navrattan-enterprises-jaipur",
+      "missing": [
+        "website",
+        "address",
+        "phone"
+      ]
+    },
+    {
+      "slug": "sarraf-jewel-jaipur",
+      "missing": [
+        "website",
+        "address",
+        "phone"
+      ]
+    },
+    {
+      "slug": "gem-worth-jaipur",
+      "missing": [
+        "website",
+        "address",
+        "phone"
+      ]
+    },
+    {
+      "slug": "jasani-mumbai",
+      "missing": [
+        "website",
+        "address",
+        "phone"
+      ]
+    },
+    {
+      "slug": "sunjewels-pvt-ltd-mumbai",
+      "missing": [
+        "website",
+        "address",
+        "phone"
+      ]
+    },
+    {
+      "slug": "gunjan-jewels-pvt-ltd-thane-mumbai",
+      "missing": [
+        "website",
+        "address",
+        "phone"
+      ]
+    },
+    {
+      "slug": "zayna-exports-amritsar",
+      "missing": [
+        "website",
+        "address",
+        "phone"
+      ]
+    },
+    {
+      "slug": "shri-arihant-mangal-expo-impo-jaipur",
+      "missing": [
+        "website",
+        "address",
+        "phone"
+      ]
+    },
+    {
+      "slug": "ratnakala-exports-pvt-ltd-surat",
+      "missing": [
+        "website",
+        "address",
+        "phone"
+      ]
+    },
+    {
+      "slug": "brij-nivesh-jaipur",
+      "missing": [
+        "website",
+        "address",
+        "phone"
+      ]
+    },
+    {
+      "slug": "valentine-silver-international-jaipur",
+      "missing": [
+        "website",
+        "address",
+        "phone"
+      ]
+    },
+    {
+      "slug": "creation-gems-and-jewellery-pvt-ltd-mumbai",
+      "missing": [
+        "website",
+        "address",
+        "phone"
+      ]
+    },
+    {
+      "slug": "jj-jdwarka-jewel-jaipur",
+      "missing": [
+        "website",
+        "address",
+        "phone"
+      ]
+    },
+    {
+      "slug": "dws-jewellery-pvt-ltd-jaipur",
+      "missing": [
+        "website",
+        "address",
+        "phone"
+      ]
+    },
+    {
+      "slug": "dwarka-gems-limited-jaipur",
+      "missing": [
+        "website",
+        "address",
+        "phone"
+      ]
+    },
+    {
+      "slug": "pukhraj-gems-exports-pvt-ltd-jaipur",
+      "missing": [
+        "website",
+        "address",
+        "phone"
+      ]
+    },
+    {
+      "slug": "prayosha-jewels-pvt-ltd-surat",
+      "missing": [
+        "website",
+        "address",
+        "phone"
+      ]
+    },
+    {
+      "slug": "maroth-jewels-pvt-ltd-jaipur",
+      "missing": [
+        "website",
+        "address",
+        "phone"
+      ]
+    },
+    {
+      "slug": "krishnam-exports-jaipur",
+      "missing": [
+        "website",
+        "address",
+        "phone"
+      ]
+    },
+    {
+      "slug": "gem-factory-india-jaipur",
+      "missing": [
+        "website",
+        "address",
+        "phone"
+      ]
+    },
+    {
+      "slug": "gie-jewels-jaipur",
+      "missing": [
+        "website",
+        "address",
+        "phone"
+      ]
+    },
+    {
+      "slug": "stellar-jewelry-mumbai",
+      "missing": [
+        "website",
+        "address",
+        "phone"
+      ]
+    },
+    {
+      "slug": "cdl-fineshine-surat",
+      "missing": [
+        "website",
+        "address",
+        "phone"
+      ]
+    },
+    {
+      "slug": "nigam-jewels-pvt-ltd-jaipur",
+      "missing": [
+        "website",
+        "address",
+        "phone"
+      ]
+    },
+    {
+      "slug": "balaji-jewels-mumbai",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "bandhan-impex-surat",
+      "missing": [
+        "website",
+        "address",
+        "phone"
+      ]
+    },
+    {
+      "slug": "bansi-jewellers-rajkot",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "bhairav-chains-mumbai",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "abu-gems-singapore",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "afra-gems-singapore",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "al-aksa-gems-singapore",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "al-fine-gems-singapore",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "am-gems-pte-ltd-singapore",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "ansari-gems-singapore",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "ar-jewellers-pte-ltd-singapore",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "bavi-gems-pte-ltd-singapore",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "elite-gems-singapore-singapore",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "evni-s-gems-pte-ltd-singapore",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "fathima-gems-jewellery-pte-ltd-singapore",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "fine-columbian-emerald-pte-ltd-singapore",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "jewelry-customs-pte-ltd-singapore",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "mishal-diamonds-pte-ltd-singapore",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "noor-impex-pte-ltd-singapore",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "olympic-gems-company-singapore",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "prasanna-gems-singapore-singapore",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "qismat-gems-singapore",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "real-gems-jewellery-singapore",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "shaliha-gems-pte-ltd-singapore",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "sns-gems-pte-ltd-singapore",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "star-siam-pte-ltd-singapore",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "united-lucky-stone-pte-ltd-singapore",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "usman-gems-jewellery-pte-ltd-singapore",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "vivie-silvergem-palace-pte-ltd-singapore",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "world-gems-singapore",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "chan-wai-jewellery-works-singapore",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "chj-jewellery-pte-ltd-singapore",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "diastar-pte-ltd-singapore",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "felice-jewellery-pte-ltd-singapore",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "fu-heng-jewellery-pte-ltd-singapore",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "house-of-gems-pte-ltd-singapore",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "inter-diam-pte-ltd-singapore",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "kim-poh-hong-goldsmith-2008-pte-ltd-singapore",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "kim-siang-jewellery-industries-pte-ltd-singapore",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "kinger-jewellery-manufacturer-pte-ltd-singapore",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "kit-leong-goldsmith-co-singapore",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "lazo-jewellery-singapore",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "legar-jewellery-singapore",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "pau-sheng-goldsmith-jewellery-singapore",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "qi-rong-jewellery-singapore",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "s-m-jewels-pte-ltd-singapore",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "teck-lee-goldsmith-jewellery-singapore",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "wangold-jewellers-pte-ltd-singapore",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "lee-cheong-gold-dealer-ltd-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "po-kwong-jewellery-ltd-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "royalty-jewellery-wholesale-co-ltd-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "siu-s-gem-co-ltd-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "asia-jewellery-holdings-ltd-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "chan-che-kee-jewellery-goldsmith-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "chun-hing-jewellery-co-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "gaily-jewellery-co-ltd-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "gold-city-gold-bar-ltd-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "quality-gems-co-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "kaiser-precious-metal-co-ltd-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "wf-commodities-co-ltd-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "hon-ngai-jewelry-design-co-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "on-tai-jewellery-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "o-t-c-trading-ltd-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "tai-yick-lai-kee-ltd-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "tak-shing-jewellery-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "wai-kee-jewellers-ltd-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "universal-jewellery-co-ltd-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "garman-jewellery-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "man-fook-gold-jewellery-ltd-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "chin-fai-gold-jewellery-wan-chai-co-ltd-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "truly-treasury-gold-jewellery-co-ltd-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "sunrise-jewellery-co-ltd-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "wing-on-jewelry-ltd-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "edelweiss-jewellery-co-ltd-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "man-sang-jewellery-co-ltd-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "wing-hang-diamond-co-ltd-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "wong-s-diamond-pearl-co-ltd-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "forte-diamond-co-ltd-hong-kong",
+      "missing": [
+        "website"
+      ]
+    },
+    {
+      "slug": "a-e-pearl-co-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "angeperle-international-co-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "asia-pearl-hk-co-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "bay-s-gem-pearl-co-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "chan-ming-wing-pearl-international-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "charkon-pearl-house-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "china-jin-yang-hk-pearl-co-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "darline-pearls-co-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "eastern-pearl-co-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "evergreen-pearls-co-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "fook-yue-pearl-co-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "fuji-pearl-co-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "fu-shing-pearl-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "fung-yuen-jewellery-co-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "goldenage-international-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "grace-pearl-hk-co-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "guangzhou-qifu-pearl-processing-co-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "gyso-pearls-jewellery-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "hang-hing-jewellery-hk-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "hayson-international-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "heng-lee-pearl-co-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "heng-mei-pearl-co-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "ho-kwong-pearl-co-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "ho-kwong-pearl-group-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "tung-fat-trading-co-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "tung-hoi-jewellery-co-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "wah-ngai-hong-jewelry-co-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "wai-yip-pearl-co-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "wing-wo-hing-jewellery-group-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "winning-jewellery-hk-co-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "wui-hing-pearls-co-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "yat-chow-pearls-gems-co-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "yee-on-gems-jewellery-factory-co-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "yida-pearl-group-hk-ltd-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "yuen-tai-pearl-co-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    },
+    {
+      "slug": "zhanjiang-city-jiahui-pearl-co-hong-kong",
+      "missing": [
+        "website",
+        "address"
+      ]
+    }
+  ],
+  "verifiedByExternalSources": [
+    "sabrina-a-los-angeles",
+    "mirage-wholesale-los-angeles"
+  ],
+  "secondarySourceCrosschecked": [
+    "miri-manufacturing-los-angeles"
+  ],
+  "notes": [
+    "All sourceUrl fields are populated, but original source presence is not proof of current operation.",
+    "Official websites and contact details may conflict with original directory listings.",
+    "No third-party product photographs or official logos were copied.",
+    "Remaining records require independent research or direct business confirmation."
+  ]
+}
