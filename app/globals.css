@@ -53,7 +53,7 @@
 .aurel-city:after{content:'';position:absolute;inset:0;z-index:-1;background:linear-gradient(0deg,rgba(0,0,0,.68),transparent 55%),linear-gradient(180deg,rgba(0,0,0,.25),transparent 30%)}
 .aurel-city-paris:before{background-image:url('https://images.unsplash.com/photo-1502602898657-3e91760cbb34?auto=format&fit=crop&w=1000&q=85')}
 .aurel-city-jaipur:before{background-image:url('https://images.unsplash.com/photo-1599661046827-dacff0c0f09a?auto=format&fit=crop&w=1000&q=85')}
-.aurel-city-tokyo:before{background-image:url('https://images.unsplash.com/photo-1519501025264-65ba15a82390?auto=format&fit=crop&w=1000&q=85')}
+.aurel-city-tokyo:before{background-image:url('https://images.unsplash.com/photo-1540959733332-eab4deabeeaf?auto=format&fit=crop&w=1000&q=85')}
 .aurel-city-top{display:flex;justify-content:space-between;align-items:center}
 .aurel-city h3{font-size:clamp(64px,6vw,100px);line-height:1;margin:15px 0 0}
 .aurel-all-dest{margin-top:40px}
