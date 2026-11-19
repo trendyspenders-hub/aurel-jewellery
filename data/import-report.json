@@ -1,0 +1,17 @@
+{
+  "sourceRows": 686,
+  "uniqueBusinesses": 674,
+  "duplicateCandidatesMerged": 12,
+  "countries": {
+    "United States": 523,
+    "India": 28,
+    "Singapore": 57,
+    "Hong Kong SAR": 30,
+    "Hong Kong / Greater China": 36
+  },
+  "sourceWorksheets": [
+    "All Prospects",
+    "International Leads"
+  ],
+  "verification": "All unconfirmed; no independent checks performed"
+}

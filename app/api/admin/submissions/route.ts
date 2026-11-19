@@ -1,0 +1,3 @@
+import {NextResponse} from 'next/server';import {database} from '@/lib/db';
+export const runtime='nodejs';
+export async function GET(request:Request){const expected=process.env.ADMIN_SECRET;if(!expected||expected==='replace-with-long-random-secret')return NextResponse.json({error:'Admin access not configured.'},{status:503});if(request.headers.get('x-admin-secret')!==expected)return NextResponse.json({error:'Unauthorized'},{status:401});try{return NextResponse.json({requests:database().prepare('SELECT * FROM requests ORDER BY created_at DESC LIMIT 500').all()})}catch{return NextResponse.json({error:'Unable to read records.'},{status:500})}}

@@ -1,0 +1,6 @@
+import type {Metadata} from 'next';
+import Link from 'next/link';
+import './globals.css';
+import {Nav} from '@/components/Nav';
+export const metadata:Metadata={title:{default:'AUREL — The World of Adornment',template:'%s | AUREL'},description:'An independent atlas of jewellers, makers and jewellery destinations around the world.'};
+export default function RootLayout({children}:{children:React.ReactNode}){return <html lang="en"><body><div className="announcement">AN INDEPENDENT ATLAS OF JEWELLERY & CRAFT</div><Nav/><main>{children}</main><footer className="footer"><div><Link href="/" className="footer-logo">AUREL<span>®</span></Link><p>The world of adornment, considered.<br/>An independent jewellery discovery platform.</p></div><div><span className="eyebrow">EXPLORE</span><Link href="/directory">The directory</Link><Link href="/destinations">Destinations</Link><Link href="/favourites">Saved places</Link></div><div><span className="eyebrow">PARTICIPATE</span><Link href="/for-jewellers">For jewellers</Link><Link href="/for-jewellers#submit">Submit a business</Link><Link href="/admin">Administration</Link></div><div className="footer-bottom">© {new Date().getFullYear()} AUREL · Independent discovery · Listings are sourced research and not independently verified. Brand name provisional.</div></footer></body></html>}
