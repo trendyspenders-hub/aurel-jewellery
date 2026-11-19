@@ -46,5 +46,82 @@
     ],
     "verifiedOn": "2026-11-19",
     "imageRights": "No product imagery licensed"
+  },
+  "a-m-custom-jewelry-atlanta": {
+    "website": "https://amcustomjewelry.com/",
+    "phone": "(470) 827-8670",
+    "address": "75 John Portman Blvd NW, Suite 6S358, Atlanta, GA 30303",
+    "verification": "Official site confirms website, contact phone and AmericasMart location; showroom independently listed by AmericasMart",
+    "verifiedFields": [
+      "website",
+      "phone",
+      "address"
+    ],
+    "verificationSources": [
+      "https://amcustomjewelry.com/",
+      "https://amcustomjewelry.com/pages/contact-us",
+      "https://www.americasmart.com/Markets/Fall-Cash-and-Carry/Open-Showrooms"
+    ],
+    "verifiedOn": "2026-11-19",
+    "imageRights": "No product photography or official logos licensed"
+  },
+  "anju-jewelry-atlanta": {
+    "website": "https://shopanju.com/",
+    "phone": "404-221-0707",
+    "verification": "Official site confirms website and telephone; office listed as Suite 7E-108B while AmericasMart also lists showroom 7-E110B; original showroom address retained pending direct confirmation",
+    "verifiedFields": [
+      "website",
+      "phone"
+    ],
+    "verificationSources": [
+      "https://shopanju.com/pages/contact",
+      "https://www.americasmart.com/Year-Round/Open-Showrooms"
+    ],
+    "verifiedOn": "2026-11-19",
+    "imageRights": "No product photography or official logos licensed"
+  },
+  "matos-jewelry-corp-miami": {
+    "verification": "Florida corporate registry lists active company at 36 NE 1 ST Suite 623; Seybold tenant directory corroborates suite; no official website or phone found",
+    "verifiedFields": [
+      "address"
+    ],
+    "verificationSources": [
+      "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResultDetail?aggregateId=domp-p25000023426-c2b608d5-7cc3-4f6b-b885-3ccc2f57e8a3&directionType=Initial&inquirytype=EntityName&listNameOrder=MATOSINVESTMENTGROUP+P170000021590&searchNameOrder=MATOSJEWELRY+P250000234260&searchTerm=MATOS+INVESTMENT+GROUP+INC",
+      "https://seyboldjewelry.com/full-directory/"
+    ],
+    "verifiedOn": "2026-11-19",
+    "imageRights": "No product photography or official logos licensed"
+  },
+  "marpeco-trade-llc-miami": {
+    "verification": "Florida corporate registry lists active company but a different principal/mailing address than Seybold tenant suite; tenant directory corroborates listing, business contact and current suite not independently confirmed",
+    "verifiedFields": [],
+    "verificationSources": [
+      "https://search.sunbiz.org/Inquiry/CorporationSearch/SearchResults?Detail=FL.DOS.Corporations.Shared.Contracts.FilingRecord&InquiryDirectionType=PreviousRecord&InquiryType=EntityName&ListNameOrder=MARPECOTRADE+L240002752110&SearchNameOrder=MARPED+H236340&SearchTerm=MARPAZ%2C+LLC.",
+      "https://seyboldjewelry.com/full-directory/"
+    ],
+    "verifiedOn": "2026-11-19",
+    "imageRights": "No product photography or official logos licensed"
+  },
+  "american-ring-company-atlanta": {
+    "verification": "AmericasMart 2026 showroom directory corroborates company and showroom B3 6-W120A; no official website or direct contact verified",
+    "verifiedFields": [
+      "address"
+    ],
+    "verificationSources": [
+      "https://www.americasmart.com/Markets/Fall-Cash-and-Carry/Open-Showrooms"
+    ],
+    "verifiedOn": "2026-11-19",
+    "imageRights": "No product photography or official logos licensed"
+  },
+  "af-designs-atlanta": {
+    "verification": "AmericasMart 2026 showroom directory corroborates company and showroom B3 7-S356; no official website or direct contact verified",
+    "verifiedFields": [
+      "address"
+    ],
+    "verificationSources": [
+      "https://www.americasmart.com/Year-Round/Open-Showrooms"
+    ],
+    "verifiedOn": "2026-11-19",
+    "imageRights": "No product photography or official logos licensed"
   }
 }
